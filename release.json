@@ -1,16 +1,49 @@
 {
-	"Version": "1.1.0",
-	"Revision": 1,
+	"Version": "1.1.1",
+	"Revision": 5,
 	"Stat": 0,
+	"Desc": "Dear player\uFF0CThe server is currently undergoing maintenance. We are sorry for the inconvenience caused. Thank you for your understanding and support!Scheduled Time: 10:00-10:30",
+	"BaseUrl": "https://malres.xiangley.com/malRes",
 	"Channels": {
 		"0": {
-			"DelayLoadName": ""
+			"App": 1,
+			"Audi": 0,
+			"Chan": 0,
+			"Open": 1,
+			"Phone": 1,
+			"Google": 1,
+			"Tourist": 1,
+			"Facebook": 1,
+			"Link": ",
+			"promotersLink": "",
+			"MainGameType": 0
+		},
+		"3": {
+			"App": 1,
+			"Audi": 0,
+			"Chan": 3,
+			"Open": 1,
+			"Phone": 1,
+			"Google": 1,
+			"Tourist": 1,
+			"Facebook": 1,
+			"Link": "",
+			"promotersLink": "",
+			"MainGameType": 0
 		}
 	},
 	"Modules": {
 		"billiards": {
-			"Open": 0
+			"MD5": "60d0c8335f24a66ee6be9bbd61429e77",
+			"Size": 11843368,
+			"Open": 1
 		}
-
+	},
+	"Full": {
+		"Size": 22893274,
+		"Url": "/Power-2-64.z"
+	},
+	"Diff": {
+		"Url": "diff/diff-{2}-{3}.z"
 	}
 }
