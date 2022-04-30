@@ -3,7 +3,7 @@
 	"Revision": 5,
 	"Stat": 0,
 	"Desc": "Dear player\uFF0CThe server is currently undergoing maintenance. We are sorry for the inconvenience caused. Thank you for your understanding and support!Scheduled Time: 10:00-10:30",
-	"BaseUrl": "https://malres.xiangley.com/malRes",
+	"BaseUrl": "",
 	"Channels": {
 		"0": {
 			"App": 1,
@@ -14,7 +14,7 @@
 			"Google": 1,
 			"Tourist": 1,
 			"Facebook": 1,
-			"Link": ",
+			"Link": "",
 			"promotersLink": "",
 			"MainGameType": 0
 		},
