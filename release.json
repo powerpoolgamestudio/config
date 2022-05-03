@@ -1,9 +1,9 @@
 {
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Revision": 5,
 	"Stat": 0,
-	"Desc": "Dear player\uFF0CThe server is currently undergoing maintenance.",
-	"BaseUrl": "",
+	"Desc": "Dear player\uFF0CThe server is currently undergoing maintenance. Thank you for your understanding and support!",
+	"BaseUrl": "https://powerpoolgamestudio.github.io/res/",
 	"Channels": {
 		"0": {
 			"App": 1,
@@ -14,9 +14,7 @@
 			"Google": 1,
 			"Tourist": 1,
 			"Facebook": 1,
-			"Link": "",
-			"promotersLink": "",
-			"MainGameType": 0
+			"Link": ""
 		},
 		"3": {
 			"App": 1,
@@ -27,9 +25,7 @@
 			"Google": 1,
 			"Tourist": 1,
 			"Facebook": 1,
-			"Link": "",
-			"promotersLink": "",
-			"MainGameType": 0
+			"Link": ""
 		}
 	},
 	"Modules": {
@@ -40,10 +36,10 @@
 		}
 	},
 	"Full": {
-		"Size": 22893274,
-		"Url": "/Power-2-64.z"
+		"Size": 22927309,
+		"Url": "Power-2-32-1.1.2.z"
 	},
 	"Diff": {
-		"Url": "diff/diff-{2}-{3}.z"
+		"Url": "diff-{0}-{1}-{2}-{3}.z"
 	}
 }
